@@ -4,7 +4,7 @@
 ## Example
 
 ```lua
-   local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/Just3itx/3itx-UI-LIB/refs/heads/main/Lib"))() 
+   local lib = loadstring(game:HttpGet("[https://raw.githubusercontent.com/Just3itx/3itx-UI-LIB/refs/heads/main/Lib"](https://raw.githubusercontent.com/imkindagoodngl/LunorUi/refs/heads/main/Src)))() 
   local FlagsManager = loadstring(game:HttpGet("https://raw.githubusercontent.com/Just3itx/3itx-UI-LIB/refs/heads/main/ConfigManager"))()
 
   local main = lib:Load({
